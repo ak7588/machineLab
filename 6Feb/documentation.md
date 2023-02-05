@@ -2,7 +2,7 @@
 
 ## Sweat, blood, tears, and many mistakes later (joking...but mistakes are real!)
 
-<img src='/6Feb/amina.gif' alt = 'gif: amina building the mechanism' width='400'>
+<img src='/6Feb/amina.gif' alt = 'gif: amina building the mechanism' width='200'>
 
 If there is anything IM coursework has taught me, it is that mistakes are OKAY and are a part of the journey. Sometimes they are also fun, if you work with friends.
 Shout-out to @ Shreya and the IM Lab First Aid Kit, who made 2 hours in the lab on Friday night more bearable and saved my wrist from a glue gun burn.
