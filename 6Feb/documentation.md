@@ -33,5 +33,5 @@ A list of mistakes and fixes made:
 - Mechanisms are doable and can be DIY'ed, though can take more time than expected.
 
 **Next steps?**
-- I would be interested to learn where these mechanisms are applicable next.
+- I would be interested to learn where these mechanisms are applicable in our next projects.
 - How these are used in the real-world solutions?
