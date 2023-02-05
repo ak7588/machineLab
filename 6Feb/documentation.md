@@ -15,8 +15,8 @@ Here are some close up pictures of the mechanism I've built, and let's talk abou
 
 ## Results
 
-1.[Watch 1-minute result 1](https://drive.google.com/file/d/1-0MX3QLOx1A3ZKnU-reLRCeg99rhUrew/view?usp=sharing) (did not realize cam came off the cardboard)
-2. [Watch 1-minute result 2](https://drive.google.com/file/d/149Q19pCD_ngL5QSngq4ODd19RN-uuswC/view?usp=sharing) (fixed the cam):
+- [Watch 1-minute result 1](https://drive.google.com/file/d/1-0MX3QLOx1A3ZKnU-reLRCeg99rhUrew/view?usp=sharing) (did not realize cam came off the cardboard)
+- [Watch 1-minute result 2](https://drive.google.com/file/d/149Q19pCD_ngL5QSngq4ODd19RN-uuswC/view?usp=sharing) (fixed the cam):
 
 ## Discussion
 
