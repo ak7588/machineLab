@@ -13,8 +13,12 @@ Here are some close up pictures of the mechanism I've built, and let's talk abou
   <img src='/6Feb/amina.gif' alt = 'gif: amina building the mechanism' width='400'>
 </div>
 
-[Watch 1-minute result 1](https://drive.google.com/file/d/1-0MX3QLOx1A3ZKnU-reLRCeg99rhUrew/view?usp=sharing) (did not realize cam came off the cardboard)
-[Watch 1-minute result 2](https://drive.google.com/file/d/149Q19pCD_ngL5QSngq4ODd19RN-uuswC/view?usp=sharing) (fixed the cam):
+## Results
+
+1.[Watch 1-minute result 1](https://drive.google.com/file/d/1-0MX3QLOx1A3ZKnU-reLRCeg99rhUrew/view?usp=sharing) (did not realize cam came off the cardboard)
+2. [Watch 1-minute result 2](https://drive.google.com/file/d/149Q19pCD_ngL5QSngq4ODd19RN-uuswC/view?usp=sharing) (fixed the cam):
+
+## Discussion
 
 A list of mistakes and fixes made:
 - Length of the crank + connecting rod. **Mistake:** Too short / too long. **Solution:** Should somehow be proportional to the distance and angle. This worked out rather intuitively, but there is for sure physics behind it.
