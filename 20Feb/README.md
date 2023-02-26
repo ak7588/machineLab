@@ -18,4 +18,4 @@ Every 15, 30, or 60 minutes something major could happen with the clock. I imagi
 
 There can be a customizable neopixel attached to the clock device. It can be connected to the internet and accessible for the NYUAD community to customize once a day / every few minutes (?)
 
-!()[/20Feb/idea.jpg]
+!()[https://github.com/ak7588/machineLab/blob/main/20Feb/idea.jpeg]
