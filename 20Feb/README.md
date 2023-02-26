@@ -12,10 +12,10 @@ The body holding the clock could be made of wooden plates. The size and shape ca
 
 ### 3. Sound Mechanism
 
-Every 15, 30, or 60 minutes something major could happen with the clock. I imagine some kind of zigzag mechanism (??) or sound-making mechanism. This is an alternative to the cookoo bird :)
+Every 15, 30, or 60 minutes something major could happen with the clock. I imagine some kind of zigzag mechanism (??) or sound-making mechanism. This is an alternative to the cookoo bird / hinge articulation mechanism? :)
 
 ### 4. Customizable neopixel
 
 There can be a customizable neopixel attached to the clock device. It can be connected to the internet and accessible for the NYUAD community to customize once a day / every few minutes (?)
 
-![](/idea.jpg)
+!()[/idea.jpg]
