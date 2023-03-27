@@ -1,4 +1,8 @@
-For the prototype, we worked with Shreya together since we're in the same group!
+For the prototype, we worked with Shreya together since we're in the same group! Please check with her repo for more videos and docu.
+
+Aside from our work on the waves, I have glued together the Sun piece from the cardboard and the servo motor. The plan is to make the Sun move in semi-circles:
+
+![servo-sun.jpg](servo-sun.jpg)
 
 Please follow this link for the documentation: https://github.com/shreya81601/MachineLab/tree/main/27March
 
